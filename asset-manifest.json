@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FireAI/static/css/main.e6fd9e7a.css",
+    "main.js": "/FireAI/static/js/main.c209e940.js",
+    "static/js/787.cda612ba.chunk.js": "/FireAI/static/js/787.cda612ba.chunk.js",
+    "static/media/cam1.png": "/FireAI/static/media/cam1.54ea4e073feddf7873f3.png",
+    "static/media/cam2.png": "/FireAI/static/media/cam2.3fb78a2076530010790d.png",
+    "static/media/cam3.png": "/FireAI/static/media/cam3.6c1a87dbec2a6f45f4e6.png",
+    "static/media/image1.jpeg": "/FireAI/static/media/image1.bc4e71e5328f3b898c2b.jpeg",
+    "static/media/bomberos_logo.png": "/FireAI/static/media/bomberos_logo.de08efc9d4b2d96ce704.png",
+    "static/media/logo_newcolor_t.png": "/FireAI/static/media/logo_newcolor_t.f4f92f855e1b9aca87c9.png",
+    "index.html": "/FireAI/index.html",
+    "main.e6fd9e7a.css.map": "/FireAI/static/css/main.e6fd9e7a.css.map",
+    "main.c209e940.js.map": "/FireAI/static/js/main.c209e940.js.map",
+    "787.cda612ba.chunk.js.map": "/FireAI/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6fd9e7a.css",
+    "static/js/main.c209e940.js"
+  ]
+}
